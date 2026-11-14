@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: Notatki
+## Notes: Wlasne notatki na mapie swiata (Alt + klik). / Your own notes on the world map (Alt + click).
+## Author: SGlinka7
+## Version: 1.0.0
+## SavedVariables: NotatkiDB
+## IconTexture: Interface\Icons\INV_Misc_Note_01
+
+Locale.lua
+Core.lua
+Main.lua
+Pins.xml
