@@ -1,6 +1,7 @@
 package-as: Notatki
 
 ignore:
+  - media
   - README.md
   - CHANGELOG.md
   - .github
