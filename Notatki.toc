@@ -3,6 +3,7 @@
 ## Notes: Wlasne notatki na mapie swiata (Alt + klik). / Your own notes on the world map (Alt + click).
 ## Author: SGlinka7
 ## Version: @project-version@
+## X-Curse-Project-ID: 1805704
 ## SavedVariables: NotatkiDB
 ## IconTexture: Interface\Icons\INV_Misc_Note_01
 
